@@ -42,21 +42,21 @@ Proposal to build a candy-crush–style game for Qubic
 
 ## 1. Key Features
 
-**On-Chain Rewards:** Smart contract (SC) automatically splits revenue into Player Rewards, Operator Fee, Shareholder Dividends, Treasury/Reserve, Charity, and Burn (deflation).
+* **On-Chain Rewards:** Smart contract (SC) automatically splits revenue into Player Rewards, Operator Fee, Shareholder Dividends, Treasury/Reserve, Charity, and Burn (deflation).
 
-**Fair & Transparent:** All earnings, reward rules, and distributions are executed on-chain with public balances and histories.
+* **Fair & Transparent:** All earnings, reward rules, and distributions are executed on-chain with public balances and histories.
 
-**Sustainable Loops:** Ranked entry fees + PRP funding support seasonal ladders, missions, and streaks without runaway emissions.
+* **Sustainable Loops:** Ranked entry fees + PRP funding support seasonal ladders, missions, and streaks without runaway emissions.
 
-**Deflationary Utility:** A fixed share of revenues is burned each cycle, reducing circulating Qubic supply.
+* **Deflationary Utility:** A fixed share of revenues is burned each cycle, reducing circulating Qubic supply.
 
-**Shareholder Dividends:** SDP pays pro-rata distributions to SC shareholders on a weekly cadence.
+* **Shareholder Dividends:** SDP pays pro-rata distributions to SC shareholders on a weekly cadence.
 
-**Charity Support:** Dedicated percentage of inflows is routed to approved charities via SC logic.
+* **Charity Support:** Dedicated percentage of inflows is routed to approved charities via SC logic.
 
-**Multi-Platform Launch:** Web (desktop) and mobile (iOS/Android) builds to reach mainstream users.
+* **Multi-Platform Launch:** Web (desktop) and mobile (iOS/Android) builds to reach mainstream users.
 
-**Integrity & Safety:** Anti-bot measures, rate limiting, and proof-of-play checks to keep rewards fair.
+* **Integrity & Safety:** Anti-bot measures, rate limiting, and proof-of-play checks to keep rewards fair.
 
 ---
 
