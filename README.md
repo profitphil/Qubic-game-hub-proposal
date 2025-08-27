@@ -1,7 +1,3 @@
-Absolutely — here’s your README with the three new sections **inserted right after the Introduction** and the **Table of Contents renumbered** so everything links correctly.
-
----
-
 # Qubic-quest-game-proposal
 
 Proposal to build a candy-crush–style game for Qubic
