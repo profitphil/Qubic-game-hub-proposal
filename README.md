@@ -43,42 +43,24 @@ Proposal to build a candy-crush–style game for Qubic
 ## 1. Key Features
 
 * **On-Chain Rewards:** Smart contract (SC) automatically splits revenue into Player Rewards, Operator Fee, Shareholder Dividends, Treasury/Reserve, Charity, and Burn (deflation).
-
 * **Fair & Transparent:** All earnings, reward rules, and distributions are executed on-chain with public balances and histories.
-
 * **Sustainable Loops:** Ranked entry fees + PRP funding support seasonal ladders, missions, and streaks without runaway emissions.
-
 * **Deflationary Utility:** A fixed share of revenues is burned each cycle, reducing circulating Qubic supply.
-
 * **Shareholder Dividends:** SDP pays pro-rata distributions to SC shareholders on a weekly cadence.
-
 * **Charity Support:** Dedicated percentage of inflows is routed to approved charities via SC logic.
-
 * **Multi-Platform Launch:** Web (desktop) and mobile (iOS/Android) builds to reach mainstream users.
-
 * **Integrity & Safety:** Anti-bot measures, rate limiting, and proof-of-play checks to keep rewards fair.
 
 ---
 
 ## 2. Solutions Offered by Qubic Quest
 
-**Utility for Qubic Tokens**
-→ Converts gameplay, cosmetics, and ranked entries into real token sinks and on-chain activity.
-
-**Inflation Concerns**
-→ Mitigates supply growth through a built-in burn allocation on every epoch.
-
-**Player Retention & Engagement**
-→ Missions, streaks, and seasonal ladders keep users returning while aligning rewards to effort.
-
-**Trust & Transparency**
-→ Revenue splits, pool balances, and dividend payouts are enforced by the SC on-chain.
-
-**Ecosystem Funding & Stability**
-→ Operator Fee and Treasury/Reserve enable ongoing development, infra, security, and events.
-
-**Social Impact**
-→ A fixed charity allocation ties gameplay to tangible, real-world contributions.
+* **Utility for Qubic Tokens** Converts gameplay, cosmetics, and ranked entries into real token sinks and on-chain activity.
+* **Inflation Concerns** Mitigates supply growth through a built-in burn allocation on every epoch.
+* **Player Retention & Engagement** Missions, streaks, and seasonal ladders keep users returning while aligning rewards to effort.
+* **Trust & Transparency** Revenue splits, pool balances, and dividend payouts are enforced by the SC on-chain.
+* **Ecosystem Funding & Stability** Operator Fee and Treasury/Reserve enable ongoing development, infra, security, and events.
+* **Social Impact** A fixed charity allocation ties gameplay to tangible, real-world contributions.
 
 ---
 
