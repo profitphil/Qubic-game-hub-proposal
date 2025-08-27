@@ -22,29 +22,39 @@ Proposal to build a candy crush like game for Qubic
 
 ## 1. Revenue & Reward Pools
 
-### 1.1 Player Reward Pool (PRP)
+### 1.1 Player Reward Pool (PRP) 50%
 
 * **Purpose:** Funds all in-game rewards that drive engagement and retention.
-* **Allocation:** *Configurable; example **50%** of net inflows.*
+* **Allocation:** 50%
 * **Covers:** Session rewards, streak bonuses, missions, seasonal ladders.
 * **Outcome:** Keeps players motivated, increases daily active users, and improves loyalty.
 
-### 1.2 Operator Fee (OF)
+### 1.2 Operator Fee (OF) 15%
 
 * **Purpose:** Guaranteed revenue to operate and improve the product.
-* **Allocation:** *Fixed **10–15%** of all inflows (before other splits).*
+* **Allocation:** 15%
 * **Covers:** Infrastructure, development, support, security and ongoing updates.
 
-### 1.3 Shareholder Dividend Pool (SDP)
-
-* **Purpose:** Passive income to Smart-Contract (SC) shareholders that aligns long-term growth.
-* **Allocation:** *Configurable; example **30–40%** of net inflows held for distribution.*
-* **Payout Cadence:** Weekly or seasonal distributions governed by the SC.
-
-### 1.4 Treasury / Reserve
+### 1.3 Treasury / Reserve 15%
 
 * **Purpose:** Strategic buffer for events, marketing, liquidity and contingency.
-* **Allocation:** *Optional **5–10%*** maintained by the SC treasury.
+* **Allocation:** 10%
+
+### 1.4 Shareholder Dividend Pool (SDP)
+
+* **Purpose:** Passive income to Smart-Contract (SC) shareholders that aligns long-term growth.
+* **Allocation:** 10%
+* **Payout Cadence:** Weekly distributions governed by the SC.
+
+### 1.5 Charity 5%
+
+* **Purpose:** Donates to real-world causes, positioning Qubic as a community-minded ecosystem.
+* **Allocation:** 5%
+
+### 1.6 Qubic Burn 5%
+
+* **Purpose:** Joins deflationary war to combat inflation by burning Qubic.
+* **Allocation:** 5% 
 
 ---
 
@@ -64,8 +74,11 @@ Proposal to build a candy crush like game for Qubic
 
 * **50 tokens → PRP (Player Reward Pool)**
 * **15 tokens → Operator Fee**
-* **30 tokens → Shareholder Dividend Pool**
-* **5 tokens  → Treasury / Reserve**
+* **15 tokens  → Treasury / Reserve**
+* **10 tokens → Shareholder Dividend Pool**
+* **5 tokens  → Charity**
+* **5 tokens  → Qubic burned**
+
 
 > All percentages are parameters in the SC and may be adjusted by governance to meet growth and sustainability targets.
 
@@ -74,21 +87,13 @@ Proposal to build a candy crush like game for Qubic
 ## 4. Shareholder Compensation
 
 * **Pro-Rata Dividends:** Each shareholder receives a percentage of SDP proportional to their SC share.
-* **Scheduled Payouts:** Weekly or monthly cycles, executed trustlessly by the SC.
+* **Scheduled Payouts:** Weekly executed trustlessly by the SC.
 * **Growth Incentives:** Optional reinvestment toggle to **auto-compound** dividends back into PRP or Treasury.
 * **Transparency:** On-chain accounting with public dashboards for pool balances and historical distributions.
 
 ---
 
-## 5. Operator Benefits
-
-* **Guaranteed Income:** A fixed **Operator Fee** on all inflows.
-* **Secondary Upside:** If the operator also holds SC shares, they participate in **dividends** (fee + dividend “double-dip”).
-* **Aligned Incentives:** More active players → larger pools → stronger dividends → healthier ecosystem.
-
----
-
-## 6. Player Sustainability
+## 5. Player Sustainability
 
 * **Fair Emissions:** Rewards scale with difficulty/engagement and are **capped to prevent abuse**.
 * **Seasonal Ladders:** Funded by entry fees + a defined slice of PRP → sustainable competitive loop.
@@ -103,7 +108,7 @@ Proposal to build a candy crush like game for Qubic
 
 ---
 
-## 7. Roadmap & Milestones
+## 6. Roadmap & Milestones
 
 ### Milestone 1 — Backend & API Layer + Smart-Contract Foundation
 
@@ -116,8 +121,8 @@ Proposal to build a candy crush like game for Qubic
   * Database for player state, sessions, leaderboards.
   * API endpoints: rewards, streaks, missions, ranked play.
   * Security & anti-abuse: rate-limits, proof-of-play basics, audit logging.
-* **Deliverables**
 
+* **Deliverables**
   * Deployed SC in test environment.
   * Working backend integrated with SC.
   * API documentation (OpenAPI) + Postman collection.
@@ -128,7 +133,6 @@ Proposal to build a candy crush like game for Qubic
 ### Milestone 2 — Web Application (MVP Frontend)
 
 * **Scope**
-
   * **React** web app: solo rewarded play + ranked play.
   * SC reward claiming integrated in-app.
   * Player dashboard: rewards, streaks, missions, leaderboards.
@@ -143,7 +147,6 @@ Proposal to build a candy crush like game for Qubic
 ### Milestone 3 — Mobile Applications
 
 * **Scope**
-
   * **React Native** Android/iOS from a shared codebase.
   * Push notifications (daily streaks, season updates).
   * Mobile-first UI/UX optimizations.
@@ -158,7 +161,6 @@ Proposal to build a candy crush like game for Qubic
 ### Milestone 4 — Desktop Build & Final Integration
 
 * **Scope**
-
   * Electron packaging for **Windows/Mac**.
   * Final integration tests across Web, Mobile, Desktop.
   * Cosmetic store & monetization hooks (optional for MVP).
@@ -168,6 +170,4 @@ Proposal to build a candy crush like game for Qubic
   * **Unified cross-platform release** with full SC reward loop.
 * **Timeline:** **≈8 weeks**
 
----
 
-*This specification mirrors the structure and tone of the existing proposal documentation and is formatted for inclusion alongside technical and business sections in your README.*
