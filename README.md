@@ -85,7 +85,8 @@ Proposal to build a candy-crush–style game for Qubic
 * **Strengthens Credibility:** Transparent SC accounting and charitable distributions improve ecosystem trust.
 
 ---
-***Example UI***
+## Example UI
+
 ![Qubic Quest](qubic-quest.gif)
 
 ---
