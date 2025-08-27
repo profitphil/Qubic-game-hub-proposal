@@ -18,26 +18,27 @@ Proposal to build a candy-crush–style game for Qubic
 1. [Key Features](#1-key-features)
 2. [Solutions Offered by Qubic Quest](#2-solutions-offered-by-qubic-quest)
 3. [How Qubic Quest Benefits Qubic](#3-how-qubic-quest-benefits-qubic)
-4. [Revenue & Reward Pools](#4-revenue--reward-pools)
+4. [Example UI](#4-example-ui)
+5. [Revenue & Reward Pools](#4-revenue--reward-pools)
 
-   * [4.1 Player Reward Pool (PRP)](#41-player-reward-pool-prp)
-   * [4.2 Operator Fee (OF)](#42-operator-fee-of)
-   * [4.3 Treasury / Reserve](#43-treasury--reserve)
-   * [4.4 Shareholder Dividend Pool (SDP)](#44-shareholder-dividend-pool-sdp)
-   * [4.5 Charity](#45-charity)
-   * [4.6 Qubic Burn](#46-qubic-burn)
-5. [Revenue Sources](#5-revenue-sources)
-6. [Distribution Logic — Worked Example](#6-distribution-logic--worked-example)
-7. [Shareholder Compensation](#7-shareholder-compensation)
-8. [Player Sustainability](#8-player-sustainability)
-9. [Roadmap & Milestones](#9-roadmap--milestones)
+   * [5.1 Player Reward Pool (PRP)](#41-player-reward-pool-prp)
+   * [5.2 Operator Fee (OF)](#42-operator-fee-of)
+   * [5.3 Treasury / Reserve](#43-treasury--reserve)
+   * [5.4 Shareholder Dividend Pool (SDP)](#44-shareholder-dividend-pool-sdp)
+   * [5.5 Charity](#45-charity)
+   * [5.6 Qubic Burn](#46-qubic-burn)
+6. [Revenue Sources](#5-revenue-sources)
+7. [Distribution Logic — Worked Example](#6-distribution-logic--worked-example)
+8. [Shareholder Compensation](#7-shareholder-compensation)
+9. [Player Sustainability](#8-player-sustainability)
+10. [Roadmap & Milestones](#9-roadmap--milestones)
 
    * [9.1 Milestone 1 — Backend & API + SC Foundation](#91-milestone-1--backend--api--sc-foundation)
    * [9.2 Milestone 2 — Web Application (MVP)](#92-milestone-2--web-application-mvp)
    * [9.3 Milestone 3 — Mobile Applications](#93-milestone-3--mobile-applications)
    * [9.4 Milestone 4 — Desktop Build & Final Integration](#94-milestone-4--desktop-build--final-integration)
-10. [Payment Terms](#10-payment-terms)
-11. [Team](#11-team-composition)
+11. [Payment Terms](#10-payment-terms)
+12. [Team](#11-team-composition)
 
 ---
 
@@ -75,43 +76,43 @@ Proposal to build a candy-crush–style game for Qubic
 * **Strengthens Credibility:** Transparent SC accounting and charitable distributions improve ecosystem trust.
 
 ---
-## Example UI
+## 4. Example UI
 
 ![Qubic Quest](qubic-quest.gif)
 
 ---
-## 4. Revenue & Reward Pools
+## 5. Revenue & Reward Pools
 
-### 4.1 Player Reward Pool (PRP)
+### 5.1 Player Reward Pool (PRP)
 
 * **Allocation:** **50%** of net inflows.
 * **Purpose:** Funds all in-game rewards that drive engagement and retention.
 * **Covers:** Session rewards, streak bonuses, missions, seasonal ladders.
 * **Outcome:** Keeps players motivated, increases DAU, and builds loyalty.
 
-### 4.2 Operator Fee (OF)
+### 5.2 Operator Fee (OF)
 
 * **Allocation:** **15%** of all inflows.
 * **Purpose:** Guaranteed revenue to operate and improve the product.
 * **Covers:** Infrastructure, development, support, security, ongoing updates.
 
-### 4.3 Treasury / Reserve
+### 5.3 Treasury / Reserve
 
 * **Allocation:** **15%**.
 * **Purpose:** Strategic buffer for events, marketing, liquidity, and contingency.
 
-### 4.4 Shareholder Dividend Pool (SDP)
+### 5.4 Shareholder Dividend Pool (SDP)
 
 * **Allocation:** **10%**.
 * **Purpose:** Passive income to SC shareholders; aligns long-term growth.
 * **Payout Cadence:** Weekly distributions governed by the SC.
 
-### 4.5 Charity
+### 5.5 Charity
 
 * **Allocation:** **5%**.
 * **Purpose:** Direct donations to real-world causes; reinforces community ethos.
 
-### 4.6 Qubic Burn
+### 5.6 Qubic Burn
 
 * **Allocation:** **5%**.
 * **Purpose:** Deflationary pressure by burning Qubic to combat inflation.
