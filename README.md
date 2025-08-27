@@ -27,18 +27,18 @@ Proposal to build a candy-crush–style game for Qubic
    * [5.4 Shareholder Dividend Pool (SDP)](#44-shareholder-dividend-pool-sdp)
    * [5.5 Charity](#45-charity)
    * [5.6 Qubic Burn](#46-qubic-burn)
-6. [Revenue Sources](#5-revenue-sources)
-7. [Distribution Logic — Worked Example](#6-distribution-logic--worked-example)
-8. [Shareholder Compensation](#7-shareholder-compensation)
-9. [Player Sustainability](#8-player-sustainability)
-10. [Roadmap & Milestones](#9-roadmap--milestones)
+6. [Revenue Sources](#6-revenue-sources)
+7. [Distribution Logic — Worked Example](#7-distribution-logic--worked-example)
+8. [Shareholder Compensation](#8-shareholder-compensation)
+9. [Player Sustainability](#9-player-sustainability)
+10. [Roadmap & Milestones](#10-roadmap--milestones)
 
-   * [9.1 Milestone 1 — Backend & API + SC Foundation](#91-milestone-1--backend--api--sc-foundation)
-   * [9.2 Milestone 2 — Web Application (MVP)](#92-milestone-2--web-application-mvp)
-   * [9.3 Milestone 3 — Mobile Applications](#93-milestone-3--mobile-applications)
-   * [9.4 Milestone 4 — Desktop Build & Final Integration](#94-milestone-4--desktop-build--final-integration)
-11. [Payment Terms](#10-payment-terms)
-12. [Team](#11-team-composition)
+   * [9.1 Milestone 1 — Backend & API + SC Foundation](#101-milestone-1--backend--api--sc-foundation)
+   * [9.2 Milestone 2 — Web Application (MVP)](#102-milestone-2--web-application-mvp)
+   * [9.3 Milestone 3 — Mobile Applications](#103-milestone-3--mobile-applications)
+   * [9.4 Milestone 4 — Desktop Build & Final Integration](#104-milestone-4--desktop-build--final-integration)
+11. [Payment Terms](#11-payment-terms)
+12. [Team](#12-team-composition)
 
 ---
 
@@ -119,7 +119,7 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-## 5. Revenue Sources
+## 6. Revenue Sources
 
 * **Transaction Fees:** Small fee on each rewarded play (or only on **ranked mode** entries).
 * **Cosmetics / Gacha:** Skins, frames, boosters (non-pay-to-win).
@@ -129,7 +129,7 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-## 6. Distribution Logic — Worked Example
+## 7. Distribution Logic — Worked Example
 
 **Example:** 100 tokens net inflow
 
@@ -142,7 +142,7 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-## 7. Shareholder Compensation
+## 8. Shareholder Compensation
 
 * **Pro-Rata Dividends:** Each shareholder receives SDP proportional to their SC share.
 * **Scheduled Payouts:** Weekly, executed trustlessly by the SC.
@@ -151,7 +151,7 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-## 8. Player Sustainability
+## 9. Player Sustainability
 
 * **Fair Emissions:** Rewards scale with difficulty/engagement and are **capped to prevent abuse**.
 * **Seasonal Ladders:** Funded by entry fees + a defined slice of PRP → sustainable competitive loop.
@@ -166,9 +166,9 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-## 9. Roadmap & Milestones
+## 10. Roadmap & Milestones
 
-### 9.1 Milestone 1 — Backend & API + SC Foundation
+### 10.1 Milestone 1 — Backend & API + SC Foundation
 
 * **Scope**
 
@@ -188,7 +188,7 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-### 9.2 Milestone 2 — Web Application (MVP)
+### 10.2 Milestone 2 — Web Application (MVP)
 
 * **Scope**
 
@@ -203,7 +203,7 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-### 9.3 Milestone 3 — Mobile Applications
+### 10.3 Milestone 3 — Mobile Applications
 
 * **Scope**
 
@@ -218,7 +218,7 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-### 9.4 Milestone 4 — Desktop Build & Final Integration
+### 10.4 Milestone 4 — Desktop Build & Final Integration
 
 * **Scope**
 
@@ -233,7 +233,7 @@ Proposal to build a candy-crush–style game for Qubic
 
 ---
 
-## 10. Payment Terms
+## 11. Payment Terms
 
 * **Total Request:** **\$8,500 USD**
 
@@ -250,7 +250,7 @@ Proposal to build a candy-crush–style game for Qubic
 * **M3 — 20%**
 * **M4 — 30%**
 
-## 11. Team Composition
+## 12. Team Composition
 
 - **Profitphil:** Team Lead
 - **Venus:** Lead developer
