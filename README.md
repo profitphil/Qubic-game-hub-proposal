@@ -115,8 +115,6 @@ Proposal to build a candy-crush–style game for Qubic
 * **Allocation:** **5%**.
 * **Purpose:** Deflationary pressure by burning Qubic to combat inflation.
 
-> **Check:** 50% + 15% + 15% + 10% + 5% + 5% = **100%**
-
 ---
 
 ## 5. Revenue Sources
