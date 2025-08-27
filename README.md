@@ -37,6 +37,7 @@ Proposal to build a candy-crush–style game for Qubic
    * [9.3 Milestone 3 — Mobile Applications](#93-milestone-3--mobile-applications)
    * [9.4 Milestone 4 — Desktop Build & Final Integration](#94-milestone-4--desktop-build--final-integration)
 10. [Payment Terms](#10-payment-terms)
+11. [Team](#11-team-composition)
 
 ---
 
