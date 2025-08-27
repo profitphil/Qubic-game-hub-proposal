@@ -2,16 +2,6 @@
 
 Proposal to build a candy-crush–style game for Qubic
 
-## Introduction
-
-**Qubic Quest** is a Candy Crush–style puzzle game built on the Qubic blockchain with an integrated smart contract that automatically **distributes revenues** to players (rewards), shareholders (dividends), and charity—and includes **token-burning** mechanisms to reduce Qubic supply. The **8-week** development project will deliver **web (desktop)** and **mobile (iOS/Android)** versions, creating a sustainable gaming ecosystem that showcases Qubic’s high-performance blockchain capabilities to mainstream audiences.
-
-* **Developer:** Venus *(QWallet, Qexplorer, CFB meme generator)*
-* **Funding Request:** **\$8,500 USD** *(3.54B Qu @ 0.0000024)*
-* **Destination Wallet:** `SZWOFOPFTSWIGBTEKGFREWGSNSSAPMKBYJZBISLKEFEUVEZQTBHTATXAFSHC`
-
-# Rewards & Revenue Distribution — Smart Contract Proposal
-
 ## 📚 Table of Contents
 
 0. [Introduction](#introduction)
@@ -39,6 +29,17 @@ Proposal to build a candy-crush–style game for Qubic
    * [9.4 Milestone 4 — Desktop Build & Final Integration](#104-milestone-4--desktop-build--final-integration)
 11. [Payment Terms](#11-payment-terms)
 12. [Team](#12-team-composition)
+
+---
+## Introduction
+
+**Qubic Quest** is a Candy Crush–style puzzle game built on the Qubic blockchain with an integrated smart contract that automatically **distributes revenues** to players (rewards), shareholders (dividends), and charity—and includes **token-burning** mechanisms to reduce Qubic supply. The **8-week** development project will deliver **web (desktop)** and **mobile (iOS/Android)** versions, creating a sustainable gaming ecosystem that showcases Qubic’s high-performance blockchain capabilities to mainstream audiences.
+
+* **Developer:** Venus *(QWallet, Qexplorer, CFB meme generator)*
+* **Funding Request:** **\$8,500 USD** *(3.54B Qu @ 0.0000024)*
+* **Destination Wallet:** `SZWOFOPFTSWIGBTEKGFREWGSNSSAPMKBYJZBISLKEFEUVEZQTBHTATXAFSHC`
+
+# Rewards & Revenue Distribution — Smart Contract Proposal
 
 ---
 
