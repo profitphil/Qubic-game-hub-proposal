@@ -249,7 +249,7 @@ Proposal to build a candy-crush–style game for Qubic
 * **M3 — 20%**
 * **M4 — 30%**
 
-## Team Composition
+## 11. Team Composition
 
 - **Profitphil:** Team Lead
 - **Venus:** Lead developer
