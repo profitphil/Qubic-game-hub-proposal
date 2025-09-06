@@ -18,7 +18,7 @@ Proposal to build a candy-crush–style game for Qubic
    * [5.6 Qubic Burn](#46-qubic-burn)
 6. [Revenue Sources](#6-revenue-sources)
 7. [Distribution Logic — Worked Example](#7-distribution-logic--worked-example)
-8. [Shareholder Compensation](#8-shareholder-compensation)
+8. [User Journey](#8-user-journey-explained)
 9. [Player Sustainability](#9-player-sustainability)
 10. [Roadmap & Milestones](#10-roadmap--milestones)
 
@@ -174,12 +174,69 @@ Cross-platform availability including:
 
 ---
 
-## 8. Shareholder Compensation
+## 8. User Journey Explained  
 
-* **Pro-Rata Dividends:** Each shareholder receives SDP proportional to their SC share.
-* **Scheduled Payouts:** Weekly, executed trustlessly by the SC.
-* **Growth Incentives:** Optional auto-compound toggle to reinvest dividends into PRP or Treasury.
-* **Transparency:** On-chain accounting; public dashboards for pool balances and distributions.
+---
+
+## A. Getting Started (Onboarding)  
+First, players discover the game through the web or mobile app stores.  
+Signing up is simple and guided, with clear instructions on connecting their **Qubic blockchain wallet**.  
+
+A friendly tutorial walks them through the basics of the puzzle gameplay and explains how they can earn rewards using blockchain technology.  
+
+This opens players’ eyes to the uniqueness of **Qubic Quest** and builds trust early on.  
+
+---
+
+## B. Playing the Game (Gameplay)  
+Players jump into gameplay, choosing between **casual matches** or **ranked competitions**.  
+
+- **Casual Play**: Enjoy puzzles at their own pace.  
+- **Ranked Play**: Requires a small token buy-in to compete for prizes.  
+
+Along the way:  
+- Daily challenges  
+- Missions  
+- Streak bonuses  
+
+These features keep the game fresh and encourage players to return often.  
+
+Every match offers chances to earn in-game tokens that can be used for:  
+- Entry fees  
+- Upgrades  
+- Cosmetic items  
+
+---
+
+## C. Engaging with Others (Community and Competition)  
+Players can check **live leaderboards** to see how they stack up against others, creating healthy competition.  
+
+Special events and seasonal contests—sometimes linked to **charity donations**—add even more reasons to stay engaged.  
+
+All rewards and rankings are powered transparently by **smart contracts**, so players always know the system is fair.  
+
+---
+
+## D. Tracking Rewards and Progress (Transparency)  
+Within the app, players see:  
+- Current token balances  
+- Reward history updated in real time  
+
+The system automatically:  
+- Pays out winnings  
+- Shares dividends with shareholders  
+
+All visible on the blockchain.  
+This transparency makes the whole experience more trustworthy and rewarding.  
+
+---
+
+## E. Sustaining Interest (Long-Term Play)  
+To keep players motivated over time:  
+- Rewards scale with effort but avoid abuse.  
+- Cosmetic items and small purchases act as **token sinks**, helping maintain economic balance.  
+- A portion of all tokens is regularly **burned**, keeping supply healthy and beneficial for players.  
+
 
 ---
 
