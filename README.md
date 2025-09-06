@@ -32,7 +32,7 @@ Proposal to build a candy-crush–style game for Qubic
 ---
 ## Introduction
 
-Qubic Quest is a **Candy Crush-style puzzle game** that introduces mainstream audiences to Qubic through an engaging **Play-to-Earn (P2E)** gaming experience.  Players earn Qubic by completing levels, challenges, and competitive tournaments.  
+Qubic Quest is a **Candy Crush-style puzzle game** (but Qubic themed) that introduces mainstream audiences to Qubic through an engaging **Play-to-Earn (P2E)** gaming experience.  Players earn Qubic by completing levels, challenges, and competitive tournaments.  
 
 ---
 
