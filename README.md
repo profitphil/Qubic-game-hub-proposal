@@ -111,7 +111,7 @@ Cross-platform availability including:
 ### 5.2 Operator Fee (OF)
 
 * **Allocation:** **15%** of all inflows.
-* **Purpose:** Guaranteed revenue to operate and improve the product.
+* **Purpose:** To operate and improve the product.
 * **Covers:** Infrastructure, development, support, security, ongoing updates.
 
 ### 5.3 Treasury / Reserve
