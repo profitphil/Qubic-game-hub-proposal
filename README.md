@@ -32,33 +32,54 @@ Proposal to build a candy-crush–style game for Qubic
 ---
 ## Introduction
 
-**Qubic Quest** is a Candy Crush-style puzzle game that introduces mainstream audiences to Qubic through an engaging Play-to-Earn (P2E) gaming experience. Players earn Qubic by completing levels, challenges, and competitive tournaments.
+# Qubic Quest  
 
-Game Architecture
-The platform offers two distinct gameplay modes designed to accommodate different player preferences and engagement levels:
-Standard Mode (Free-to-Play)
+Qubic Quest is a **Candy Crush-style puzzle game** that introduces mainstream audiences to Qubic through an engaging **Play-to-Earn (P2E)** gaming experience.  
+Players earn Qubic by completing levels, challenges, and competitive tournaments.  
 
-Zero-barrier entry with immediate gameplay access
-Qubic token rewards for level completion and achievement milestones
-Sustainable reward structure for consistent player engagement
+---
 
-Competition Mode (Tournament Entry)
+## Game Architecture  
 
-Entry fee paid in Qubic tokens
-Prize pool distribution favoring top-performing players
-Enhanced reward potential for skilled participants
+The platform offers two distinct gameplay modes designed to accommodate different player preferences and engagement levels:  
 
-Automated Smart Contract Distribution
-The integrated smart contract autonomously manages all revenue streams through predetermined allocation protocols:
+### Standard Mode (Free-to-Play)  
+- Zero-barrier entry with immediate gameplay access  
+- Qubic token rewards for level completion and achievement milestones  
+- Sustainable reward structure for consistent player engagement  
 
-Player Reward Distribution: Direct compensation for gameplay achievements
-Shareholder Dividend Payments: Proportional returns to stakeholders
-Token Deflationary Mechanism: Systematic Qubic burning to reduce circulating supply
-Charitable Contributions: Automated donations to approved charitable organizations
+### Competition Mode (Tournament Entry)  
+- Entry fee paid in Qubic tokens  
+- Prize pool distribution favoring top-performing players  
+- Enhanced reward potential for skilled participants  
 
-Value Proposition
-Qubic Quest serves as a practical demonstration of Qubic's capabilities while creating sustainable token utility through gaming mechanics. The platform bridges traditional gaming audiences with blockchain technology, driving ecosystem growth and token adoption.
-Deployment: Cross-platform availability including web browsers and mobile applications (iOS/Android)
+---
+
+## Automated Smart Contract Distribution  
+
+The integrated smart contract autonomously manages all revenue streams through predetermined allocation protocols:  
+
+- **Player Reward Distribution**: Direct compensation for gameplay achievements  
+- **Shareholder Dividend Payments**: Proportional returns to stakeholders  
+- **Token Deflationary Mechanism**: Systematic Qubic burning to reduce circulating supply  
+- **Charitable Contributions**: Automated donations to approved charitable organizations  
+
+---
+
+## Value Proposition  
+
+Qubic Quest serves as a practical demonstration of Qubic's capabilities while creating sustainable token utility through gaming mechanics.  
+
+The platform bridges traditional gaming audiences with blockchain technology, driving ecosystem growth and token adoption.  
+
+---
+
+## Deployment  
+
+Cross-platform availability including:  
+- Web browsers  
+- Mobile applications (iOS/Android)  
+
 
 * **Developer:** Venus *(QWallet, Qexplorer, CFB meme generator)*
 * **Funding Request:** **\$8,500 USD** *(3.54B Qu @ 0.0000024)*
