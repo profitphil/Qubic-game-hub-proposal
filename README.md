@@ -32,8 +32,7 @@ Proposal to build a candy-crush–style game for Qubic
 ---
 ## Introduction
 
-Qubic Quest is a **Candy Crush-style puzzle game** that introduces mainstream audiences to Qubic through an engaging **Play-to-Earn (P2E)** gaming experience.  
-Players earn Qubic by completing levels, challenges, and competitive tournaments.  
+Qubic Quest is a **Candy Crush-style puzzle game** that introduces mainstream audiences to Qubic through an engaging **Play-to-Earn (P2E)** gaming experience.  Players earn Qubic by completing levels, challenges, and competitive tournaments.  
 
 ---
 
@@ -58,15 +57,7 @@ The platform offers two distinct gameplay modes designed to accommodate differen
 - **Player Reward Distribution**: Direct compensation for gameplay achievements  
 - **Shareholder Dividend Payments**: Proportional returns to stakeholders  
 - **Token Deflationary Mechanism**: Systematic Qubic burning to reduce circulating supply  
-- **Charitable Contributions**: Automated donations to approved charitable organizations  
-
----
-
-## Value Proposition  
-
-Qubic Quest serves as a practical demonstration of Qubic's capabilities while creating sustainable token utility through gaming mechanics.  
-
-The platform bridges traditional gaming audiences with blockchain technology, driving ecosystem growth and token adoption.  
+- **Charitable Contributions**: Automated donations to approved charitable organizations   
 
 ---
 
