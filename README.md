@@ -53,9 +53,7 @@ The platform offers two distinct gameplay modes designed to accommodate differen
 
 ---
 
-## Automated Smart Contract Distribution  
-
-The integrated smart contract autonomously manages all revenue streams through predetermined allocation protocols:  
+## Automated Smart Contract Distribution    
 
 - **Player Reward Distribution**: Direct compensation for gameplay achievements  
 - **Shareholder Dividend Payments**: Proportional returns to stakeholders  
@@ -72,16 +70,14 @@ The platform bridges traditional gaming audiences with blockchain technology, dr
 
 ---
 
-## Deployment  
+## Deployment & Developer 
 
 Cross-platform availability including:  
 - Web browsers  
 - Mobile applications (iOS/Android)  
 
-##Developer
-
 * **Developer:** Venus *(QWallet, Qexplorer, CFB meme generator)*
-* **Funding Request:** **\$8,500 USD** *(3.54B Qu @ 0.0000024)*
+* **Funding Request:** **\$8,500 USD** *(4B Qu @ 0.0000021)*
 * **Destination Wallet:** `SZWOFOPFTSWIGBTEKGFREWGSNSSAPMKBYJZBISLKEFEUVEZQTBHTATXAFSHC`
 
 ---
