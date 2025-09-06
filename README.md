@@ -87,7 +87,6 @@ Cross-platform availability including:
 ## 3. How Qubic Quest Benefits Qubic
 
 * **Expands the User Base:** Web + mobile funnels attract mainstream players and onboard them into the Qubic ecosystem.
-* **Showcases Performance:** Demonstrates Qubic’s low-latency, high-throughput smart-contract execution in a popular game format.
 * **Builds Token Utility:** Multiple spending surfaces (ranked entries, cosmetics, streak recovery) create persistent demand.
 * **Reduces Supply:** Automated burn mechanics provide consistent deflationary pressure.
 * **Shareholder Revenues:** Offers rewards and passive income for shareholders.
