@@ -4,9 +4,8 @@ Proposal to build a candy-crush–style game for Qubic
 
 ## 📚 Table of Contents
 
-0. [Introduction](#introduction)
-1. [Key Features](#1-key-features)
-2. [Solutions Offered by Qubic Quest](#2-solutions-offered-by-qubic-quest)
+1. [Introduction](#introduction)
+2. [Key Features](#1-key-features)
 3. [How Qubic Quest Benefits Qubic](#3-how-qubic-quest-benefits-qubic)
 4. [Example UI](#4-example-ui)
 5. [Revenue & Reward Pools](#4-revenue--reward-pools)
@@ -33,37 +32,48 @@ Proposal to build a candy-crush–style game for Qubic
 ---
 ## Introduction
 
-**Qubic Quest** is a Candy Crush–style puzzle game built on the Qubic blockchain with an integrated smart contract that automatically **distributes revenues** to players (rewards), shareholders (dividends), and charity—and includes **token-burning** mechanisms to reduce Qubic supply. The **8-week** development project will deliver **web (desktop)** and **mobile (iOS/Android)** versions, creating a sustainable gaming ecosystem that showcases Qubic’s high-performance blockchain capabilities to mainstream audiences.
+**Qubic Quest** is a Candy Crush-style puzzle game that introduces mainstream audiences to Qubic through an engaging Play-to-Earn (P2E) gaming experience. Players earn Qubic by completing levels, challenges, and competitive tournaments.
+
+Game Architecture
+The platform offers two distinct gameplay modes designed to accommodate different player preferences and engagement levels:
+Standard Mode (Free-to-Play)
+
+Zero-barrier entry with immediate gameplay access
+Qubic token rewards for level completion and achievement milestones
+Sustainable reward structure for consistent player engagement
+
+Competition Mode (Tournament Entry)
+
+Entry fee paid in Qubic tokens
+Prize pool distribution favoring top-performing players
+Enhanced reward potential for skilled participants
+
+Automated Smart Contract Distribution
+The integrated smart contract autonomously manages all revenue streams through predetermined allocation protocols:
+
+Player Reward Distribution: Direct compensation for gameplay achievements
+Shareholder Dividend Payments: Proportional returns to stakeholders
+Token Deflationary Mechanism: Systematic Qubic burning to reduce circulating supply
+Charitable Contributions: Automated donations to approved charitable organizations
+
+Value Proposition
+Qubic Quest serves as a practical demonstration of Qubic's capabilities while creating sustainable token utility through gaming mechanics. The platform bridges traditional gaming audiences with blockchain technology, driving ecosystem growth and token adoption.
+Deployment: Cross-platform availability including web browsers and mobile applications (iOS/Android)
 
 * **Developer:** Venus *(QWallet, Qexplorer, CFB meme generator)*
 * **Funding Request:** **\$8,500 USD** *(3.54B Qu @ 0.0000024)*
 * **Destination Wallet:** `SZWOFOPFTSWIGBTEKGFREWGSNSSAPMKBYJZBISLKEFEUVEZQTBHTATXAFSHC`
 
-# Rewards & Revenue Distribution — Smart Contract Proposal
-
 ---
 
-## 1. Key Features
+## 1. Key Features & Solutions
 
-* **On-Chain Rewards:** Smart contract (SC) automatically splits revenue into Player Rewards, Operator Fee, Shareholder Dividends, Treasury/Reserve, Charity, and Burn (deflation).
-* **Fair & Transparent:** All earnings, reward rules, and distributions are executed on-chain with public balances and histories.
-* **Sustainable Loops:** Ranked entry fees + PRP funding support seasonal ladders, missions, and streaks without runaway emissions.
-* **Deflationary Utility:** A fixed share of revenues is burned each cycle, reducing circulating Qubic supply.
-* **Shareholder Dividends:** SDP pays pro-rata distributions to SC shareholders on a weekly cadence.
-* **Charity Support:** Dedicated percentage of inflows is routed to approved charities via SC logic.
+* **Sustainable Loops:** Ranked entry fees + player rewards funding support seasonal ladders, missions, and streaks without runaway emissions.
 * **Multi-Platform Launch:** Web (desktop) and mobile (iOS/Android) builds to reach mainstream users.
 * **Integrity & Safety:** Anti-bot measures, rate limiting, and proof-of-play checks to keep rewards fair.
-
----
-
-## 2. Solutions Offered by Qubic Quest
-
 * **Utility for Qubic Tokens** Converts gameplay, cosmetics, and ranked entries into real token sinks and on-chain activity.
 * **Inflation Concerns** Mitigates supply growth through a built-in burn allocation on every epoch.
 * **Player Retention & Engagement** Missions, streaks, and seasonal ladders keep users returning while aligning rewards to effort.
-* **Trust & Transparency** Revenue splits, pool balances, and dividend payouts are enforced by the SC on-chain.
-* **Ecosystem Funding & Stability** Operator Fee and Treasury/Reserve enable ongoing development, infra, security, and events.
-* **Social Impact** A fixed charity allocation ties gameplay to tangible, real-world contributions.
 
 ---
 
