@@ -197,13 +197,13 @@ Every match offers chances to earn in-game tokens that can be used for:
 ## C. Engaging with Others (Community and Competition)  
 Players can check **live leaderboards** to see how they stack up against others, creating healthy competition.  
 
-Special events and seasonal contests—sometimes linked to **charity donations**—add even more reasons to stay engaged.  
+Special events and seasonal contests add even more reasons to stay engaged.  
 
-All rewards and rankings are powered transparently by **smart contracts**, so players always know the system is fair.  
+All rewards and rankings are powered transparently by smart contract, so players always know the system is fair.  
 
 ---
 
-## D. Tracking Rewards and Progress (Transparency)  
+## D. Tracking Rewards and Progress 
 Within the app, players see:  
 - Current token balances  
 - Reward history updated in real time  
@@ -211,9 +211,6 @@ Within the app, players see:
 The system automatically:  
 - Pays out winnings  
 - Shares dividends with shareholders  
-
-All visible on the blockchain.  
-This transparency makes the whole experience more trustworthy and rewarding.  
 
 ---
 
