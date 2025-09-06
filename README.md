@@ -45,7 +45,7 @@ The platform offers two distinct gameplay modes designed to accommodate differen
 - Qubic token rewards for level completion and achievement milestones  
 - Sustainable reward structure for consistent player engagement  
 
-### Competition Mode (Tournament Entry)  
+### Competition Mode (Pay Qubic to Enter)  
 - Entry fee paid in Qubic tokens  
 - Prize pool distribution favoring top-performing players  
 - Enhanced reward potential for skilled participants  
@@ -143,7 +143,6 @@ Cross-platform availability including:
 * **Cosmetics / Gacha:** Skins, frames, boosters (non-pay-to-win).
 * **Streak Recovery:** Micro-fee to preserve streaks after a miss.
 * **Ranked Entry Fees:** Players stake tokens to compete for seasonal prize pools.
-* **Advertising (optional):** Programmatic ads with payouts routed by SC rules.
 
 ---
 
