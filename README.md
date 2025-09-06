@@ -78,6 +78,7 @@ Cross-platform availability including:
 - Web browsers  
 - Mobile applications (iOS/Android)  
 
+##Developer
 
 * **Developer:** Venus *(QWallet, Qexplorer, CFB meme generator)*
 * **Funding Request:** **\$8,500 USD** *(3.54B Qu @ 0.0000024)*
