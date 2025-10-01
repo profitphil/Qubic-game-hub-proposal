@@ -77,7 +77,7 @@ A **Candy Crush–style puzzle game** with two modes:
 
 ---
 
-## 5. Example UI  
+## 5. Example UI (First Candy-Crush-LIke Game- Qubic Quest)
 
 ![Qubic Quest](qubic-quest.gif)  
 
