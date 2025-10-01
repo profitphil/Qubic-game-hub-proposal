@@ -44,23 +44,19 @@ A **Candy Crush–style puzzle game** with two modes:
 
 #### Loot Box  
 Spend Qubic to open mystery boxes containing randomized rewards—tokens, cosmetics, or multipliers. 
-![Lootbox](lootbox.png)
 
 #### Coinflip  
 Classic 50/50 betting game. Stake Qubic on heads or tails, with instant on-chain results. Simple, addictive, and transparent.  
-![Coinflip](coinflip.png)
 
 #### Dice  
 Predict the roll and wager Qubic. The higher the risk, the higher the payout. Powered by verifiable randomness for provable fairness.  
-![Dice](dice.png)
 
 #### Limbo  
 Set your multiplier, bet Qubic, and climb higher with every tick. Cash out for guaranteed profit—or risk it all for massive wins. 
-![Limbo](limbo.png)
 
 #### Plinky  
 Drop a Qubic token into a plinko-style board. Watch it bounce and land in prize slots that pay instantly.   
-![Plinky](plinky.png)
+
 
 ---
 
@@ -183,3 +179,9 @@ Unified launcher, cosmetic store, cross-game balances.
 - **Venus** – Lead Developer *(QWallet, Qexplorer, CFB Meme Generator)*  
 
 ---
+## 14. Future Games UI
+![Plinky](plinky.png)
+![Limbo](limbo.png)
+![Dice](dice.png)
+![Coinflip](coinflip.png)
+![Lootbox](lootbox.png)
