@@ -44,23 +44,23 @@ A **Candy Crush–style puzzle game** with two modes:
 
 #### Loot Box  
 Spend Qubic to open mystery boxes containing randomized rewards—tokens, cosmetics, or multipliers. 
-(lootbox.png)
+!(lootbox.png)
 
 #### Coinflip  
 Classic 50/50 betting game. Stake Qubic on heads or tails, with instant on-chain results. Simple, addictive, and transparent.  
-(coinflip.png)
+!(coinflip.png)
 
 #### Dice  
 Predict the roll and wager Qubic. The higher the risk, the higher the payout. Powered by verifiable randomness for provable fairness.  
-(dice.png)
+!(dice.png)
 
 #### Limbo  
 Set your multiplier, bet Qubic, and climb higher with every tick. Cash out for guaranteed profit—or risk it all for massive wins. 
-(limbo.png)
+!(limbo.png)
 
 #### Plinky  
 Drop a Qubic token into a plinko-style board. Watch it bounce and land in prize slots that pay instantly.   
-(plinky.png)
+!(plinky.png)
 
 ---
 
