@@ -1,326 +1,185 @@
-# Qubic-quest-game-proposal
+# 🎮 Qubic Game Hub Proposal  
+## Launch Game: Qubic Quest (Candy Crush–style)
 
-Proposal to build a candy-crush–style game for Qubic
-
-## 📚 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Key Features](#1-key-features)
-3. [How Qubic Quest Benefits Qubic](#3-how-qubic-quest-benefits-qubic)
-4. [Example UI](#4-example-ui)
-5. [Revenue & Reward Pools](#4-revenue--reward-pools)
-
-   * [5.1 Player Reward Pool (PRP)](#41-player-reward-pool-prp)
-   * [5.2 Operator Fee (OF)](#42-operator-fee-of)
-   * [5.3 Treasury / Reserve](#43-treasury--reserve)
-   * [5.4 Shareholder Dividend Pool (SDP)](#44-shareholder-dividend-pool-sdp)
-   * [5.5 Charity](#45-charity)
-   * [5.6 Qubic Burn](#46-qubic-burn)
-6. [Revenue Sources](#6-revenue-sources)
-7. [Distribution Logic — Worked Example](#7-distribution-logic--worked-example)
-8. [User Journey](#8-user-journey-explained)
-9. [Player Sustainability](#9-player-sustainability)
-10. [Roadmap & Milestones](#10-roadmap--milestones)
-
-   * [9.1 Milestone 1 — Backend & API + SC Foundation](#101-milestone-1--backend--api--sc-foundation)
-   * [9.2 Milestone 2 — Web Application (MVP)](#102-milestone-2--web-application-mvp)
-   * [9.3 Milestone 3 — Mobile Applications](#103-milestone-3--mobile-applications)
-   * [9.4 Milestone 4 — Desktop Build & Final Integration](#104-milestone-4--desktop-build--final-integration)
-11. [Payment Terms](#11-payment-terms)
-12. [Team](#12-team-composition)
-
----
-## Introduction
-
-Qubic Quest is a **Candy Crush-style puzzle game** (but Qubic themed) that introduces mainstream audiences to Qubic through an engaging **Play-to-Earn (P2E)** gaming experience.  Players earn Qubic by completing levels, challenges, and competitive tournaments.  
+Proposal to build a **Qubic-powered Game Hub**, beginning with the development and launch of **Qubic Quest**, and expanding into a collection of arcade-style mini-games where players stake, spend, and win Qubic tokens.  
 
 ---
 
-## Game Architecture  
+## 📚 Table of Contents  
 
-The platform offers two distinct gameplay modes designed to accommodate different player preferences and engagement levels:  
-
-### Standard Mode (Free-to-Play)  
-- Zero-barrier entry with immediate gameplay access  
-- Qubic token rewards for level completion and achievement milestones  
-- Sustainable reward structure for consistent player engagement  
-
-### Competition Mode (Pay Qubic to Enter)  
-- Entry fee paid in Qubic tokens  
-- Prize pool distribution favoring top-performing players  
-- Enhanced reward potential for skilled participants  
-
----
-
-## Automated Smart Contract Distribution    
-
-- **Player Reward Distribution**: Direct compensation for gameplay achievements  
-- **Shareholder Dividend Payments**: Proportional returns to stakeholders  
-- **Token Deflationary Mechanism**: Systematic Qubic burning to reduce circulating supply  
-- **Charitable Contributions**: Automated donations to approved charitable organizations   
+1. [Introduction](#1-introduction)  
+2. [Vision: Qubic Game Hub](#2-vision-qubic-game-hub)  
+3. [Key Features](#3-key-features)  
+4. [How Qubic Quest & Game Hub Benefit Qubic](#4-how-qubic-quest--game-hub-benefit-qubic)  
+5. [Example UI](#5-example-ui)  
+6. [Revenue & Reward Pools](#6-revenue--reward-pools)  
+7. [Revenue Sources](#7-revenue-sources)  
+8. [Distribution Logic — Worked Example](#8-distribution-logic--worked-example)  
+9. [User Journey](#9-user-journey)  
+10. [Player Sustainability](#10-player-sustainability)  
+11. [Roadmap & Milestones](#11-roadmap--milestones)  
+12. [Payment Terms](#12-payment-terms)  
+13. [Team](#13-team)  
 
 ---
 
-## Deployment & Developer 
+## 1. Introduction  
 
-Cross-platform availability including:  
-- Web browsers  
-- Mobile applications (iOS/Android)  
+The **Qubic Game Hub** introduces mainstream players to Qubic through addictive, fun, and blockchain-backed games.  
 
-* **Developer:** Venus *(QWallet, Qexplorer, CFB meme generator)*
-* **Funding Request:** **\$8,500 USD** *(4B Qu @ 0.0000021)*
-* **Destination Wallet:** `SZWOFOPFTSWIGBTEKGFREWGSNSSAPMKBYJZBISLKEFEUVEZQTBHTATXAFSHC`
+The first title, **Qubic Quest**, is a **Candy Crush–style puzzle game** where players can enjoy casual free play or competitive ranked modes. Beyond this flagship launch, the Hub will expand into quick-play arcade and chance-based games, creating **continuous token sinks, engagement, and ecosystem growth**.  
 
 ---
 
-## 1. Key Features & Solutions
+## 2. Vision: Qubic Game Hub  
 
-* **Sustainable Loops:** Ranked entry fees + player rewards funding support seasonal ladders, missions, and streaks without runaway emissions.
-* **Multi-Platform Launch:** Web (desktop) and mobile (iOS/Android) builds to reach mainstream users.
-* **Integrity & Safety:** Anti-bot measures, rate limiting, and proof-of-play checks to keep rewards fair.
-* **Utility for Qubic Tokens** Converts gameplay, cosmetics, and ranked entries into real token sinks and on-chain activity.
-* **Inflation Concerns** Mitigates supply growth through a built-in burn allocation on every epoch.
-* **Player Retention & Engagement** Missions, streaks, and seasonal ladders keep users returning while aligning rewards to effort.
+The Hub will be a **collection of mini arcade games** powered by Qubic smart contracts. Players pay small amounts of Qubic to play, compete for rewards, and contribute to token burns, dividends, and charitable allocations.  
 
----
+### Launch Title: Qubic Quest  
+A **Candy Crush–style puzzle game** with two modes:  
+- **Casual Mode** – free-to-play, earn small Qubic rewards.  
+- **Ranked Mode** – pay Qubic to enter, compete for pooled prize rewards.  
 
-## 3. How Qubic Quest Benefits Qubic
+### Future Mini-Games in the Hub  
 
-* **Expands the User Base:** Web + mobile funnels attract mainstream players and onboard them into the Qubic ecosystem.
-* **Builds Token Utility:** Multiple spending surfaces (ranked entries, cosmetics, streak recovery) create persistent demand.
-* **Reduces Supply:** Automated burn mechanics provide consistent deflationary pressure.
-* **Shareholder Revenues:** Offers rewards and passive income for shareholders.
-* **Strengthens Credibility:** Transparent SC accounting and charitable distributions improve ecosystem trust.
+#### Loot Box  
+Spend Qubic to open mystery boxes containing randomized rewards—tokens, cosmetics, or multipliers. 
+(lootbox.png)
 
----
-## 4. Example UI
+#### Coinflip  
+Classic 50/50 betting game. Stake Qubic on heads or tails, with instant on-chain results. Simple, addictive, and transparent.  
+(coinflip.png)
 
-![Qubic Quest](qubic-quest.gif)
+#### Dice  
+Predict the roll and wager Qubic. The higher the risk, the higher the payout. Powered by verifiable randomness for provable fairness.  
+(dice.png)
 
----
-## 5. Revenue & Reward Pools
+#### Limbo  
+Set your multiplier, bet Qubic, and climb higher with every tick. Cash out for guaranteed profit—or risk it all for massive wins. 
+(limbo.png)
 
-### 5.1 Player Reward Pool (PRP)
-
-* **Allocation:** **50%** of net inflows.
-* **Purpose:** Funds all in-game rewards that drive engagement and retention.
-* **Covers:** Session rewards, streak bonuses, missions, seasonal ladders.
-* **Outcome:** Keeps players motivated, increases DAU, and builds loyalty.
-
-### 5.2 Operator Fee (OF)
-
-* **Allocation:** **15%** of all inflows.
-* **Purpose:** To operate and improve the product.
-* **Covers:** Infrastructure, development, support, security, ongoing updates.
-
-### 5.3 Treasury / Reserve
-
-* **Allocation:** **15%**.
-* **Purpose:** Strategic buffer for events, marketing, liquidity, and contingency.
-
-### 5.4 Shareholder Dividend Pool (SDP)
-
-* **Allocation:** **10%**.
-* **Purpose:** Passive income to SC shareholders; aligns long-term growth.
-* **Payout Cadence:** Weekly distributions governed by the SC.
-
-### 5.5 Charity
-
-* **Allocation:** **5%**.
-* **Purpose:** Direct donations to real-world causes; reinforces community ethos.
-
-### 5.6 Qubic Burn
-
-* **Allocation:** **5%**.
-* **Purpose:** Deflationary pressure by burning Qubic to combat inflation.
+#### Plinky  
+Drop a Qubic token into a plinko-style board. Watch it bounce and land in prize slots that pay instantly.   
+(plinky.png)
 
 ---
 
-## 6. Revenue Sources
+## 3. Key Features  
 
-* **Transaction Fees:** Small fee on each rewarded play (or only on **ranked mode** entries).
-* **Cosmetics / Gacha:** Skins, frames, boosters (non-pay-to-win).
-* **Streak Recovery:** Micro-fee to preserve streaks after a miss.
-* **Ranked Entry Fees:** Players stake tokens to compete for seasonal prize pools.
-
----
-
-## 7. Distribution Logic — Worked Example
-
-**Example:** 100 tokens net inflow
-
-* **50 tokens → PRP (Player Reward Pool)**
-* **15 tokens → Operator Fee**
-* **15 tokens → Treasury / Reserve**
-* **10 tokens → Shareholder Dividend Pool**
-* **5 tokens  → Charity**
-* **5 tokens  → Qubic Burn**
+* **Multi-Game Ecosystem** – A single Hub for puzzle, arcade, and chance-based mini-games.  
+* **Smart Contract Distribution** – On-chain rewards, burns, dividends, and charity.  
+* **Cross-Platform Launch** – Web, mobile, and desktop builds for maximum adoption.  
+* **Persistent Token Utility** – Every play consumes or circulates Qubic.  
+* **Player Retention** – Seasonal ladders, streak bonuses, and tournaments.  
+* **Integrity & Safety** – Anti-bot protections and proof-of-play validation.  
 
 ---
 
-## 8. User Journey Explained  
+## 4. How Qubic Quest & Game Hub Benefit Qubic  
+
+* **Expands User Base** – Engages casual gamers and competitive players worldwide.  
+* **Builds Token Utility** – Play, cosmetics, retries, and entries all consume Qubic.  
+* **Reduces Supply** – Smart contract–driven burns maintain deflationary pressure.  
+* **Generates Dividends** – Shareholders benefit through recurring payouts.  
+* **Boosts Credibility** – Transparent, fair-play contracts improve trust.  
+* **Scalable Model** – Adding new games drives continuous growth without reworking core infrastructure.  
 
 ---
 
-## A. Getting Started (Onboarding)  
-First, players discover the game through the web or mobile app stores.  
-Signing up is simple and guided, with clear instructions on connecting their **Qubic blockchain wallet**.  
+## 5. Example UI  
 
-A friendly tutorial walks them through the basics of the puzzle gameplay and explains how they can earn rewards using blockchain technology.  
-
-This opens players’ eyes to the uniqueness of **Qubic Quest** and builds trust early on.  
+![Qubic Quest](qubic-quest.gif)  
 
 ---
 
-## B. Playing the Game (Gameplay)  
-Players jump into gameplay, choosing between **casual matches** or **ranked competitions**.  
+## 6. Revenue & Reward Pools  
 
-- **Casual Play**: Enjoy puzzles at their own pace.  
-- **Ranked Play**: Requires a small token buy-in to compete for prizes.  
-
-Along the way:  
-- Daily challenges  
-- Missions  
-- Streak bonuses  
-
-These features keep the game fresh and encourage players to return often.  
-
-Every match offers chances to earn in-game tokens that can be used for:  
-- Entry fees  
-- Upgrades  
-- Cosmetic items  
+* **50% → Player Reward Pool (PRP)** – Payouts, streaks, seasonal ladders.  
+* **15% → Operator Fee (OF)** – Operations, development, infrastructure.  
+* **15% → Treasury / Reserve** – Marketing, liquidity, contingency.  
+* **10% → Shareholder Dividend Pool (SDP)** – Weekly payouts.  
+* **5% → Charity** – Automated donations.  
+* **5% → Qubic Burn** – Deflationary supply reduction.  
 
 ---
 
-## C. Engaging with Others (Community and Competition)  
-Players can check **live leaderboards** to see how they stack up against others, creating healthy competition.  
+## 7. Revenue Sources  
 
-Special events and seasonal contests add even more reasons to stay engaged.  
-
-All rewards and rankings are powered transparently by smart contract, so players always know the system is fair.  
-
----
-
-## D. Tracking Rewards and Progress 
-Within the app, players see:  
-- Current token balances  
-- Reward history updated in real time  
-
-The system automatically:  
-- Pays out winnings  
-- Shares dividends with shareholders  
+* **Transaction Fees** – From ranked or paid entries.  
+* **Cosmetics / Gacha** – Skins, themes, and boosters.  
+* **Retry & Streak Recovery** – Small Qubic fees for second chances.  
+* **Seasonal Tournaments** – Leaderboard competitions.  
+* **Cross-Game Utility** – Shared wallet across all titles in the Hub.  
 
 ---
 
-## E. Sustaining Interest (Long-Term Play)  
-To keep players motivated over time:  
-- Rewards scale with effort but avoid abuse.  
-- Cosmetic items and small purchases act as **token sinks**, helping maintain economic balance.  
-- A portion of all tokens is regularly **burned**, keeping supply healthy and beneficial for players.  
+## 8. Distribution Logic — Worked Example  
 
+**Example:** 100 tokens net inflow  
 
----
-
-## 9. Player Sustainability
-
-* **Fair Emissions:** Rewards scale with difficulty/engagement and are **capped to prevent abuse**.
-* **Seasonal Ladders:** Funded by entry fees + a defined slice of PRP → sustainable competitive loop.
-* **Cosmetic Sinks:** Absorb inflation and keep tokens circulating.
-* **Integrity:** Anti-botting, rate limits, and proof-of-play hooks at API/SC layers.
-
-**✅ Net Result**
-
-* **Players:** Fun + consistent rewards.
-* **Operator:** Predictable revenue to run and grow the game.
-* **Shareholders:** Sustainable, recurring dividends that grow with adoption.
+* 50 → PRP  
+* 15 → Operator Fee  
+* 15 → Treasury / Reserve  
+* 10 → Shareholder Dividend Pool  
+* 5 → Charity  
+* 5 → Qubic Burn  
 
 ---
 
-## 10. Roadmap & Milestones
+## 9. User Journey  
 
-### 10.1 Milestone 1 — Backend & API + SC Foundation
-
-* **Scope**
-
-  * Design & implement **Reward System SC** (Qubic C++).
-  * Implement pool splits (**PRP / OF / SDP / Treasury**) with parameterization & admin controls.
-  * Core hooks: register player, submit result, compute rewards, distribute payouts.
-  * Backend services (NestJS / FastAPI) bridging game ↔ SC.
-  * Database for player state, sessions, leaderboards.
-  * API endpoints: rewards, streaks, missions, ranked play.
-  * Security & anti-abuse: rate-limits, proof-of-play basics, audit logging.
-* **Deliverables**
-
-  * Deployed SC in test environment.
-  * Working backend integrated with SC.
-  * API documentation (OpenAPI) + Postman collection.
-* **Timeline:** **1–2 weeks**
+1. **Onboarding** – Players sign up, connect wallet, and try a tutorial.  
+2. **Gameplay** – Choose casual or ranked play, earning rewards.  
+3. **Community** – Leaderboards, events, tournaments.  
+4. **Rewards** – On-chain payouts and dividend tracking.  
 
 ---
 
-### 10.2 Milestone 2 — Web Application (MVP)
+## 10. Player Sustainability  
 
-* **Scope**
-
-  * **React** web app: solo rewarded play + ranked play.
-  * In-app SC reward claiming.
-  * Player dashboard: rewards, streaks, missions, leaderboards.
-  * Operator/Shareholder dashboard: pools, payouts, reports.
-* **Deliverables**
-
-  * Playable **web MVP** with end-to-end SC integration.
-* **Timeline:** **3–4 weeks**
+* Fair emissions and capped rewards.  
+* Multiple token sinks across all games.  
+* Anti-bot and abuse prevention.  
+* Ecosystem growth through continuous mini-game expansion.  
 
 ---
 
-### 10.3 Milestone 3 — Mobile Applications
+## 11. Roadmap & Milestones  
 
-* **Scope**
+### M1 – Backend & Smart Contract Foundation (2 weeks)  
+Reward pools, payout logic, and anti-abuse systems.  
 
-  * **React Native** for Android/iOS from a shared codebase.
-  * Push notifications (daily streaks, season updates).
-  * Mobile-first UI/UX optimizations.
-  * Store submission: Google Play & Apple TestFlight.
-* **Deliverables**
+### M2 – Web MVP (4 weeks)  
+Launch **Qubic Quest** on web with dashboards.  
 
-  * **Mobile builds** ready for testing/release.
-* **Timeline:** **5–7 weeks**
+### M3 – Mobile Apps (6 weeks)  
+React Native builds with notifications.  
 
----
-
-### 10.4 Milestone 4 — Desktop Build & Final Integration
-
-* **Scope**
-
-  * Electron packaging for **Windows/Mac**.
-  * Final integration tests across Web, Mobile, Desktop.
-  * Cosmetic store & monetization hooks (optional for MVP).
-  * Documentation + admin handover.
-* **Deliverables**
-
-  * **Unified cross-platform release** with full SC reward loop.
-* **Timeline:** **≈8 weeks**
+### M4 – Desktop Build + Game Hub Integration (8 weeks)  
+Unified launcher, cosmetic store, cross-game balances.  
 
 ---
 
-## 11. Payment Terms
+## 12. Payment Terms  
 
-* **Total Request:** **\$8,500 USD**
+* **Total Request:** **$12,000 USD (~7.5B Qubic @ 0.0000016)**  
 
-**Breakdown**
+**Breakdown:**  
+* Smart Contract Development: $6,000  
+* Frontend + UI Development: $5,000  
+* Infrastructure & Fees: $1000  
 
-* **SC Development:** 160 hrs × \$25/hr = **\$4,000**
-* **Frontend + UI Development:** 160 hrs × \$25/hr = **\$4,000**
-* **Webserver setup/development & App Store fees:** **\$500**
+**Disbursement:**  
+* M1 – 20%  
+* M2 – 30%  
+* M3 – 20%  
+* M4 – 30%  
 
-**Disbursement Schedule**
+---
 
-* **M1 — 20%**
-* **M2 — 30%**
-* **M3 — 20%**
-* **M4 — 30%**
+## 13. Team  
 
-## 12. Team Composition
+- **Profitphil** – Team Lead  
+- **Venus** – Lead Developer *(QWallet, Qexplorer, CFB Meme Generator)*  
 
-- **Profitphil:** Team Lead
-- **Venus:** Lead developer
+---
