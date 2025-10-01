@@ -54,7 +54,7 @@ Predict the roll and wager Qubic. The higher the risk, the higher the payout. Po
 #### Limbo  
 Set your multiplier, bet Qubic, and climb higher with every tick. Cash out for guaranteed profit—or risk it all for massive wins. 
 
-#### Plinky  
+#### Plinko  
 Drop a Qubic token into a plinko-style board. Watch it bounce and land in prize slots that pay instantly.   
 
 
@@ -180,7 +180,7 @@ Unified launcher, cosmetic store, cross-game balances.
 
 ---
 ## 14. Future Games UI
-![Plinky](plinky.png)
+![Plinko](plinko.png)
 ![Limbo](limbo.png)
 ![Dice](dice.png)
 ![Coinflip](coinflip.png)
