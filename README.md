@@ -42,15 +42,15 @@ A **Candy Crush–style puzzle game** with two modes:
 
 ### Future Mini-Games in the Hub  (Sample UI at end of proposal)
 
-#### Loot Box-Spend Qubic to open mystery boxes containing randomized rewards—tokens, cosmetics, or multipliers. 
+- **LootBox** - Spend Qubic to open mystery boxes containing randomized rewards—tokens, cosmetics, or multipliers. 
 
-#### Coinflip-Classic 50/50 betting game. Stake Qubic on heads or tails, with instant on-chain results. Simple, addictive, and transparent.  
+- **Coinflip** - Classic 50/50 betting game. Stake Qubic on heads or tails, with instant on-chain results. Simple, addictive, and transparent.  
 
-#### Dice-Predict the roll and wager Qubic. The higher the risk, the higher the payout. Powered by verifiable randomness for provable fairness.  
+- **Dice** - Predict the roll and wager Qubic. The higher the risk, the higher the payout. Powered by verifiable randomness for provable fairness.  
 
-#### Limbo-Set your multiplier, bet Qubic, and climb higher with every tick. Cash out for guaranteed profit—or risk it all for massive wins. 
+- **Limbo** - Set your multiplier, bet Qubic, and climb higher with every tick. Cash out for guaranteed profit—or risk it all for massive wins. 
 
-#### Plinko-Drop a Qubic token into a plinko-style board. Watch it bounce and land in prize slots that pay instantly.   
+- **Plinko** - Drop a Qubic token into a plinko-style board. Watch it bounce and land in prize slots that pay instantly.   
 
 
 ---
