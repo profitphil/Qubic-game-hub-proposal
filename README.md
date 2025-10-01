@@ -141,12 +141,9 @@ A **Candy Crush–style puzzle game** with two modes:
 Reward pools, payout logic, and anti-abuse systems.  
 
 ### M2 – Web MVP (4 weeks)  
-Launch **Qubic Quest** on web with dashboards.  
+Launch **Qubic Quest** on web with dashboards.    
 
-### M3 – Mobile Apps (6 weeks)  
-React Native builds with notifications.  
-
-### M4 – Desktop Build + Game Hub Integration (8 weeks)  
+### M3 – Desktop Build + Game Hub Integration (8 weeks)  
 Unified launcher, cosmetic store, cross-game balances.  
 
 ---
@@ -160,11 +157,6 @@ Unified launcher, cosmetic store, cross-game balances.
 * Frontend + UI Development: $5,000  
 * Infrastructure & Fees: $1000  
 
-**Disbursement:**  
-* M1 – 20%  
-* M2 – 30%  
-* M3 – 20%  
-* M4 – 30%  
 
 ---
 
