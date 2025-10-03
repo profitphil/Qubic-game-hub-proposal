@@ -150,7 +150,7 @@ Unified launcher, cosmetic store, cross-game balances.
 
 ## 12. Payment Terms  
 
-* **Total Request:** **$12,000 USD (~7.5B Qubic @ 0.0000016)**  
+* **Total Request:** **$12,000 USD (~6.5B Qubic @ 0.0000019)**  
 
 **Breakdown:**  
 * Smart Contract Development: $6,000  
