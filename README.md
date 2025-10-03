@@ -3,7 +3,10 @@
 
 Proposal to build a **Qubic-powered Game Hub**, beginning with the development and launch of **Qubic Quest**, and expanding into a collection of arcade-style mini-games where players stake, spend, and win Qubic tokens.  
 
-* **Total Request:** **$12,000 USD (~6.5B Qubic @ 0.0000019) to YQAWNLZYODWPSDGHFMEOYPOPVOZATRXUUZNWUTRNMFOAADMFYORYCYYETKDM**  
+* **Total Request:** **$12,000 USD (~6.5B Qubic @ 0.0000019) to YQAWNLZYODWPSDGHFMEOYPOPVOZATRXUUZNWUTRNMFOAADMFYORYCYYETKDM**
+
+- **Profitphil** – Team Lead  
+- **Venus** – Lead Developer *(QWallet, Qexplorer, CFB Meme Generator)* 
 
 ---
 
