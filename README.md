@@ -45,7 +45,7 @@ A **Candy Crush–style puzzle game** with two modes:
 - **Casual Mode** – free-to-play, earn small Qubic rewards.  
 - **Ranked Mode** – pay Qubic to enter, compete for pooled prize rewards.  
 
-### Future Mini-Games in the Hub  (Sample UI at end of proposal)
+### Future Mini-Games in the Hub 
 
 - **LootBox** - Spend Qubic to open mystery boxes containing randomized rewards—tokens, cosmetics, or multipliers. 
 
@@ -172,8 +172,3 @@ Unified launcher, cosmetic store, cross-game balances.
 
 ---
 ## 14. Future Games UI
-![Plinko](plinko.png)
-![Limbo](limbo.png)
-![Dice](dice.png)
-![Coinflip](coinflip.png)
-![Lootbox](lootbox.png)
